@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi there, I'm Subham Mishra!
 
-<!--
-**Dev5401/Dev5401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **React Developer | Front-End Enthusiast | UI/UX Aficionado**
 
-Here are some ideas to get you started:
+I'm a passionate developer focused on building modern, responsive, and user-centric web applications using **React.js**. I love turning ideas into interactive, accessible interfaces that feel great to use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+- ⚛️ React, Redux, Context API
+- 🟨 JavaScript (ES6+), TypeScript
+- 💅 TailwindCSS, Bootstrep, Styled Components, Sass
+- 🌐 HTML5, CSS3
+- 🔧 Git, GitHub, VS Code
+- 🧪 Jest, React Testing Library
+- 📦 npm, Yarn, Webpack, Vite
+
+---
+
+### 🌱 Currently Learning
+- ⚡ Next.js for SSR and dynamic routing
+
+---
+
+### 📫 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/subham-m-222334212/)  
+- [Twitter](https://x.com/codewithsubham)  
+- 📧 subhammishra@zohomail.in
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+Thanks for visiting my profile! ⭐
